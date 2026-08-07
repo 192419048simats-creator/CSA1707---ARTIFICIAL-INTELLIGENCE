@@ -1,0 +1,10 @@
+print(" SEND")
+print("+MORE")
+print("-----")
+print("MONEY")
+
+print("\nSolution:")
+print("9567")
+print("+1085")
+print("-----")
+print("10652")
